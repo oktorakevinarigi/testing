@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useEffect } from "react";
 import * as firebase from "firebase/app";
 import "firebase/messaging";
